@@ -4,6 +4,8 @@
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=KayoRonald&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">
   
+  <hr />
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayoronald&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="KayoRond" />
 
 </div>
