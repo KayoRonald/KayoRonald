@@ -33,6 +33,8 @@
   &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp;
+  <img alt="Chakra-ui" src="https://img.shields.io/badge/chakra-greem?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  &nbsp;
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </div>
   <br/>
