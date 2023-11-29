@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KayoRonald
-- 🌱 I am currently learning Reactjs (React Native) and TypeScript
+- 🌱 I am currently learning Reactjs (React Native) and TypeScript!
 
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=KayoRonald&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">
