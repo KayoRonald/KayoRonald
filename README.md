@@ -17,25 +17,22 @@
 <a height="150em" href="http://www.github.com/kayoronald"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kayoronald&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,golang,fastapi,prisma,express" />
+  </a>
+</p>
 
-  <img alt="JavaScript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    &nbsp;
-  <img alt="React-logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    &nbsp;
-  <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   &nbsp;
-  
-  <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  &nbsp;
- <img alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  &nbsp;
- <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  &nbsp;
-  <img alt="Chakra-ui" src="https://img.shields.io/badge/chakra-greem?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-  &nbsp;
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</div>
-  <br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,planetscale" />
+  </a>
+</p>
+<br/>
 
