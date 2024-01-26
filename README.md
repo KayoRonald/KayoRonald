@@ -19,19 +19,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,python" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,golang,fastapi,prisma,express" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,planetscale" />
+    <img src="https://skillicons.dev/icons?i=fastapi,prisma,express,postgres,mysql,planetscale" />
   </a>
 </p>
 <br/>
