@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,python" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,python,vite" />
     <img height="50px" width="auto"  src="https://gist.githubusercontent.com/KayoRonald/425604d87019c90d0780aabed1519a4a/raw/a63bd85e2a8fe47a8b01fa654990136d691d5bd8/chackraui.svg" />
   </a>
   </a>
