@@ -26,5 +26,5 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,prisma,express,postgres,mysql,planetscale" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,prisma,postgres,mysql" />
 </p>
