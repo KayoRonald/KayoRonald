@@ -3,7 +3,10 @@
 - 👋 Hi, I’m @KayoRonald
 - 🌱 I am currently learning Reactjs, Next, Golang, TypeScript and python!
 - ⚙️ I use daily: `.ts`, `.js`, `.go`, `.py`
-
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,nestjs" />
+  </a>
 
 <div align="center">
   <a href="https://github.com/kayoronald?tab=repositories">
@@ -19,12 +22,5 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,python,vite" />
-    <img height="50px" width="auto"  src="https://gist.githubusercontent.com/KayoRonald/425604d87019c90d0780aabed1519a4a/raw/a63bd85e2a8fe47a8b01fa654990136d691d5bd8/chackraui.svg" />
-  </a>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,prisma,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,prisma,postgres,mysql" />
 </p>
