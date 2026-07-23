@@ -5,7 +5,7 @@
 - ⚙️ I use daily: `.ts`, `.js`, `.go`, `.py`
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,golang,nestjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,tailwind,nodejs,golang,nestjs,fastapi" />
   </a>
 
 <div align="center">
